@@ -26,7 +26,7 @@
     "@material-ui/lab": "^4.0.0-alpha.56",
     "hepburn": "git@github.com:pillowfication/hepburn#v1.2.0",
     "ls-serialize": "^1.0.5",
-    "next": "^9.5.1",
+    "next": "^9.5.4",
     "react": "16.13.1",
     "react-async": "^10.0.1",
     "react-dom": "16.13.1",
